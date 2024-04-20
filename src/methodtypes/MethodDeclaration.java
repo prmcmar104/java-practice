@@ -6,7 +6,7 @@ public class MethodDeclaration {
 
     }
 
-    private void m2(int a, int b, int c, int d){
+    private void m2(int a, int b, int c, int d, int e){
 
     }
 
