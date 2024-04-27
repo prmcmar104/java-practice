@@ -22,6 +22,7 @@ public class Challenge1 {
         System.out.println("Enter Greeting Message: ");
         String message = scanner.nextLine();
         printMessage(name, message);
+        scanner.close();
     }
     public static void printMessage(String name, String message){
         System.out.println("Hi " + name);
